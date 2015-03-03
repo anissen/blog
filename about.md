@@ -1,19 +1,9 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+The personal blog of Anders Nissen. I'm a professional software developer by day, making a navigational aiding tool called SafePilot for nautical pilots. By night, I'm a very unprofessional indie game development enthusiast. This blog is primarily about considerations on the latter.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+About me: I'm 30 years old and living in Aarhus, Denmark. I'm a Master of Science from University of Aarhus. My programming language of choice is [Haxe](http://haxe.org) and my ditto game engine is [Luxe](http://luxeengine.com).

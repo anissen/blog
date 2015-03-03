@@ -1,28 +1,28 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       Blog of Anders Nissen
+email:       andnis@gmail.com
+author:      Anders Nissen
+description: "Rambling of a spare-time indie game dev."
+baseurl:     "/blog"
+url:         "http://andersnissen.com"
 
 # Google analytics
-google_analytics: UA-53548208-1
+google_analytics: UA-32783311-3
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname:   andersnissensblog
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons:  true
+github_username:    anissen
 stackoverflow_id:
-twitter_username:
+twitter_username:   andershnissen
 google_plus_id:
 linkedin_username:
 bitcoin_url:
@@ -30,9 +30,7 @@ paypal_url:
 flattr_button:
 
 # Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+markdown:     kramdown
 permalink:    pretty
 paginate:     3
 sass:
