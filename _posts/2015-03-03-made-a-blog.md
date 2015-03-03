@@ -2,7 +2,7 @@
 layout:     post
 title:      Made a Blog, Why?
 date:       2015-03-03 21:00:00
-summary:    "I've made a new blog. Here's my thoughts of creating a blog and which purpose it will serve. Spoiler: It's all about fun and games."
+summary:    "My thoughts behind creating a blog and what purpose it will serve. <br/><i>Spoiler: It's all about fun and games.</i>"
 categories: 
 ---
 
