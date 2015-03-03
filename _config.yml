@@ -3,7 +3,7 @@ title:       Blog of Anders Nissen
 email:       andnis@gmail.com
 author:      Anders Nissen
 description: "Rambling of a spare-time indie game dev."
-baseurl:     "blog"
+baseurl:     "/blog"
 url:         "http://andersnissen.com"
 
 # Google analytics
