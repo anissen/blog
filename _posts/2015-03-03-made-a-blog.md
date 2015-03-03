@@ -3,12 +3,12 @@ layout:     post
 title:      Made a Blog, Why?
 date:       2015-03-03 21:00:00
 summary:    "I've made a new blog. Here's my thoughts of creating a blog and which purpose it will serve. Spoiler: It's all about fun and games."
-categories: blog
+categories: 
 ---
 
 Welcome to my brand new work-in-progress blog!
 
-![desk](/images/134_nP51DVC.gif)
+![celebration]({{ site.baseurl }}/images/134_nP51DVC.gif)
 
 I used to have a [blog back in 2004-2007](http://andersnissen.blogspot.dk/). It has gathered a lot of dust since 2007 and now here's a new blog. So why create a new blog?
 
