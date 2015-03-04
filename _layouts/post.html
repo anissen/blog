@@ -9,11 +9,26 @@ layout: default
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">
+    {% assign d = page.date | date: "%-d"  %}
+    {{ page.date | date: "%B" }} 
+    {% case d %}
+      {% when '1' or '21' or '31' %}{{ d }}st
+      {% when '2' or '22' %}{{ d }}nd
+      {% when '3' or '23' %}{{ d }}rd
+      {% else %}{{ d }}th
+      {% endcase %}, 
+    {{ page.date | date: "%Y" }}
+  </span><br>
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
-  <span class="post-meta small">{{ minutes }} minute read</span>
+  <!-- <span class="post-meta small">{{ minutes }} minute read</span><br/> -->
+  <!-- <span class="post-meta small">Tags: 
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags#{{tag}}">{{ tag }}</a>
+    {% endfor %}
+  </span> -->
 </div>
 
 <article class="post-content">
