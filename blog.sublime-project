@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+            "folder_exclude_patterns": [
+                ".sass-cache",
+                "_site"
+            ],
+            "file_exclude_patterns": [
+                "blog.sublime-workspace",
+                "apple-touch-icon*.png",
+                "favicon*.*"
+            ]
+		}
+	]
+}
