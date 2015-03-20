@@ -15,6 +15,7 @@ tags:       Blog Ideas
     * https://github.com/stackgl/shader-school
     * http://shadertoy.com
     * http://www.kevs3d.co.uk/dev/shaders/
+    * Book of Shaders: http://patriciogonzalezvivo.com/2015/thebookofshaders/
 
 My shader: https://www.shadertoy.com/view/4dB3Rm
 http://www.gfycat.com/IdioticFondGar
@@ -43,3 +44,6 @@ http://www.gfycat.com/IdioticFondGar
 
 ### Language parsing
     (hxparse)
+
+
+### Old school ray tracing
