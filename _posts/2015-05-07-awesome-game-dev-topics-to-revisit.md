@@ -3,7 +3,7 @@ layout:     post
 title:      Awesome Game Dev. Topics to Revisit
 date:       2015-03-07 21:00:00
 categories: []
-tags:       [Revist]
+tags:       [Revisit]
 published:  True
 
 ---
