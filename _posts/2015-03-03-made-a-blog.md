@@ -3,7 +3,7 @@ layout:     post
 title:      Made a Blog, Why?
 date:       2015-03-03 21:00:00
 categories: 
-tags:       Blog Hexmage
+tags:       [Hexmage]
 ---
 
 Welcome to my brand new work-in-progress blog! This post will outline my thoughts behind creating a blog and what purpose it will serve. _Spoiler: It's all about fun and games._
