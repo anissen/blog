@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Awesome Game Dev. Topics to Revisit
+title:      "<i>Series:</i><br/>Awesome Game Dev. Topics to Revisit"
 date:       2015-05-07 20:00:00
 categories: []
 tags:       [Revisit]

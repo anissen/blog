@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Topics to Revisit: Procedural Generation"
+title:      "<i>Topics to Revisit:</i><br/>Procedural Generation"
 date:       2015-05-07 21:00:00
 categories: 
 tags:       [Revisit]
