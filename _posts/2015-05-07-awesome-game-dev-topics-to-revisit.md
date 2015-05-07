@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Awesome Game Dev. Topics to Revisit
-date:       2015-03-07 21:00:00
+date:       2015-05-07 20:00:00
 categories: []
 tags:       [Revisit]
 published:  True
@@ -14,7 +14,7 @@ This series will highlight some awesome topics that I've experimented with but w
 
 **Topics:**
 
-* [Procedural Generation](/2015/05/07/topics-to-revisit-procedural-generation/)
+* [Procedural Generation]({{ site.baseurl }}/2015/05/07/topics-to-revisit-procedural-generation/)
 * Shaders
 * Steering/flocking
 * Behavior trees
