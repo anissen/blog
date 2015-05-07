@@ -14,7 +14,7 @@ This series will highlight some awesome topics that I've experimented with but w
 
 **Topics:**
 
-* [Procedural Generation](/2015/03/07/topics-to-revisit-procedural-generation/)
+* [Procedural Generation](/2015/05/07/topics-to-revisit-procedural-generation/)
 * Shaders
 * Steering/flocking
 * Behavior trees
