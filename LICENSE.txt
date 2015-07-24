@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Copyright (c) 2015 Anders Nissen
+=======
+Copyright (c) 2014-2015 John Otander
+>>>>>>> upstream/gh-pages
 
 MIT License
 
